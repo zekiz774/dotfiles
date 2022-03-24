@@ -133,6 +133,6 @@ alias vsc"nvim ~/.config/nvim/coc-settings.json"
 # alias sudo="doas"
 alias c="clear"
 alias ls="ls -la --color=auto"
-alias update="pamac update"
+alias update="yay -Syu"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
